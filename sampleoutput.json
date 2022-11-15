@@ -1,0 +1,57 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Bitcoin drops 1.6% to below $20000 - Reuters",
+    "description": "Bitcoin was off 1.63% at $19,920 by late afternoon in Europe on Saturday, down $330 from its previous close.",
+    "url": "https://www.reuters.com/markets/us/bitcoin-drops-16-below-20000-2022-08-27/",
+    "urlToImage": "https://www.reuters.com/resizer/AjlubzI3WawXrIpEPQYO0MzwlPY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W4IF6T6QZFNZLAUT4ZH3FGXT6Y.jpg",
+    "publishedAt": "2022-08-27T16:04:00Z",
+    "content": "Aug 27 (Reuters) - Bitcoin was off 1.63% at $19,920 by late afternoon in Europe on Saturday, down $330 from its previous close.\r\nBitcoin, the world's biggest and best-known cryptocurrency, is down 58… [+336 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Bitcoin once again slips below $20000 - Reuters",
+    "description": "Bitcoin on Sunday dropped 1.54% to $19,804, slipping from the 20,000 mark after losing $310 from its previous close.",
+    "url": "https://www.reuters.com/technology/bitcoin-once-again-slips-below-20000-2022-09-18/",
+    "urlToImage": "https://www.reuters.com/resizer/GinA1NFuisA5sivR91vluRb8SQo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUWQZU5ZZJIF3HLCX5BGWH22LU.jpg",
+    "publishedAt": "2022-09-18T10:17:00Z",
+    "content": "Sept 18 (Reuters) - Bitcoin on Sunday dropped 1.54% to $19,804, slipping from the 20,000 mark after losing $310 from its previous close.\r\nThe world's biggest and best-known cryptocurrency is down 58.… [+372 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Cryptoverse: Ether snaps at bitcoin's heels in race for crypto crown - Reuters.com",
+    "description": "For years, ether could barely dream of challenging its big brother bitcoin. Now, its ambitions may be becoming more realistic.",
+    "url": "https://www.reuters.com/technology/cryptoverse-ether-snaps-bitcoins-heels-race-crypto-crown-2022-09-13/",
+    "urlToImage": "https://www.reuters.com/resizer/D6UAwg9xkBVA9UviKEjSKPGTI3w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QQABWUBD6JJ3JJLRDJTC3IQMFI.jpg",
+    "publishedAt": "2022-09-13T05:12:00Z",
+    "content": "Sept 13 (Reuters) - For years, ether could barely dream of challenging its big brother bitcoin. Now, its ambitions may be becoming more realistic.\r\nThe second-biggest cryptocurrency is taking market … [+3625 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Ethereum Merge: How one big cryptocurrency is going green",
+    "description": "Ethereum, which currently uses as much energy as a medium-sized country, is to halt cryptomining.",
+    "url": "https://www.bbc.co.uk/news/technology-62891715",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5833/production/_126697522_66d3ee21-4213-480e-954e-f9574f987446.jpg",
+    "publishedAt": "2022-09-13T23:26:31Z",
+    "content": "By Joe TidyCyber reporter \r\nThe second biggest cryptocurrency, Ethereum, is about to switch over to a new operating model that uses 99.9% less energy.\r\nThe change, called The Merge, is designed to wi… [+5489 chars]"
+    }]
+}
